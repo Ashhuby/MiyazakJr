@@ -1,7 +1,7 @@
 Here is a simple footnote[^1]. With some additional text after it.
 
 [^1]: My reference.
-
+---
 
 # Headings:
 + This is a level 1 heading.
@@ -18,8 +18,7 @@ Here is a simple footnote[^1]. With some additional text after it.
 ##### Tiny Title
 + This is a level 5 heading.
 
-
-
+---
 Text options:
 ======
 
@@ -42,13 +41,23 @@ Another example of a footnote[^2].
 ~~Scratch this.~~
 + This text with be scratched through.
 
+---
 # Code:
 
 ```
 int number = 8l
 Console.WriteLine(number);
 ```
+---
+# Tables:
 
+Initials | Score | Prize
+--- | --- | ---
+`MA` | **3200** | *$40,000*
+`NA` | **2900** | *$12,000*
+`TW` | **1600** | *$6500*
+
+---
 # Images:
 
 ![ShubsIncNoBackground](https://github.com/user-attachments/assets/a6914aad-e4e2-48ab-998e-15e066297c94 "Shubs Inc.")
