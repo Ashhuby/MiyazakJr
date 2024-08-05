@@ -3,10 +3,6 @@ Here is a simple footnote[^1]. With some additional text after it.
 [^1]: My reference.
 
 
-Another example of a footnote[^2]. This should be smaller.
-[^2]: Footnote 2.
-
-
 # Headings:
 + This is a level 1 heading.
 
@@ -26,6 +22,10 @@ Another example of a footnote[^2]. This should be smaller.
 
 Text options:
 ======
+
+Another example of a footnote[^2]. 
+[^2]: Footnote 2 information, blah blah blah...
+
 
 [Google's Homepage](http://www.google.co.uk "This link takes user to the google homepage")
 
