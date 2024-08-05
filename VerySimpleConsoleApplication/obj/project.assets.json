@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LocalSaves\\VerySimpleProgram\\VerySimpleConsoleApplication\\VerySimpleConsoleApplication.csproj",
+      "projectUniqueName": "C:\\MyRepos\\MiyazakJr\\VerySimpleConsoleApplication\\VerySimpleConsoleApplication.csproj",
       "projectName": "VerySimpleConsoleApplication",
-      "projectPath": "C:\\LocalSaves\\VerySimpleProgram\\VerySimpleConsoleApplication\\VerySimpleConsoleApplication.csproj",
+      "projectPath": "C:\\MyRepos\\MiyazakJr\\VerySimpleConsoleApplication\\VerySimpleConsoleApplication.csproj",
       "packagesPath": "C:\\Users\\Marwan\\.nuget\\packages\\",
-      "outputPath": "C:\\LocalSaves\\VerySimpleProgram\\VerySimpleConsoleApplication\\obj\\",
+      "outputPath": "C:\\MyRepos\\MiyazakJr\\VerySimpleConsoleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
