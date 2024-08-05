@@ -2,6 +2,13 @@ Here is a simple footnote[^1]. With some additional text after it.
 
 [^1]: My reference.
 ---
+# Table of Contents:
+
+- [Headings](#headings)
+- [Text Manipulation](#text-options)
+- [Code](#code)
+- [Tables](#tables)
+- [Images](#images)
 
 # Headings:
 + This is a level 1 heading.
