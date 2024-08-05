@@ -26,7 +26,7 @@ Here is a simple footnote[^1]. With some additional text after it.
 + This is a level 5 heading.
 
 ---
-Text options:
+Links, Lists and Text Options:
 ======
 
 Another example of a footnote[^2]. 
@@ -48,6 +48,32 @@ Another example of a footnote[^2].
 ~~Scratch this.~~
 + This text with be scratched through.
 
+---
+Another form of lists:
+
+- [x] Wake up
+- [x] Eat breakfast
+- [x] Brush teeth
+- [ ] Take shower
+- [ ] Get dressed
+
+---
+Emojis:
+(WITHOUT THE SPEECHMARKS)
+
+
+ ":skull:" = ☠️ 
+ 
+":cook:" = 🧑‍🍳
+
+":checkered_flag:" = 🏁
+
+":medal:" = 🥇
+
+":camel:" = 🐫
+
+":mermaid:" = 🧜‍♀️
+ 
 ---
 # Code:
 
